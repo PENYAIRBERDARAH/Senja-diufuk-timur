@@ -1,0 +1,506 @@
+================SPORT================
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//301_SportsOne.png" group-title="SPORT", 3BB SPORTS One
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d153e515a3ec465db2d812275d254d3f:808b83fd09be3a6c95fdd322379e068b
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0190/DASH/V0190.mpd?playbackUrlPrefix=https%3A%2F%2Fhw.play-rbcdn.ais.co.th&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=2ca8d9d3b69541cf181415fff66fd7db&chunkHttps=true&tmid=B0014&tpbk=XfNUYCFBC8SGSo9c&rrt=1748604348&tmod=rfkoh&rsid=d7f888df-7b8c-4480-9bbd-115aeb20137a&tuid=2ffcf30913&cdn=huawei-https&tdid=31903fcff2fbf0e7430c5503dbofdvpq&origin=anevia&tfa=f0-fc&tttl=1748690646
+
+
+   #########NASIONAL##########
+
+
+
+#
+#EXTM3U
+#EXTINF:-1 tvg-id="PialaPresiden" tvg-name="Piala Presiden Indonesia" group-title="Bola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Piala_Presiden.png/500px-Piala_Presiden.png", Piala Presiden Indonesia - Bola (Vidio.com)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://attitude.my.id/scripts/drm.php?id=19035
+https://attitude.my.id/scripts/dash.php?id=19035
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-id="antv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/640px-Antv_logo.svg.png",ANTV Indihome
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://iili.io/JMp31cb.png" group-title="🇮🇩 INDONESIA 🇮🇩",ANTV HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
+
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/antv.png" tvg-id="13308" ,ANTV HD DIGITAL
+https://raw.githubusercontent.com/warningfm/streams/master/live/m3u8/id/b630a001384603f.m3u8
+
+
+EXTM3U
+#EXTINF:-1 tvg-id="PialaPresiden" tvg-name="Piala Presiden Indonesia" group-title="Bola" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Piala_Presiden.png/500px-Piala_Presiden.png", Piala Presiden Indonesia - Bola (Vidio.com)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://attitude.my.id/scripts/drm.php?id=19035
+https://attitude.my.id/scripts/dash.php?id=19035
+
+
+
+
+#EXTINF:-1 group-title="📽️ WORLD MOVIES AND CARTOONS 📽️" tvg-id="" tvg-logo="",BIOSKOP INDONESIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0 tvg-id="CitraMuslim.id" tvg-name="" group-title="🇮🇩 INDONESIA 🇮🇩" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9m9qh9N3n7LDuTVMf5pZNZgJM0XJGwg_hxyt7QVcbgQ&s",Citra Muslim
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd|user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+
+
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩"  tvg-logo="https://images.indihometv.com/logo_crimeinvest_small.png",CRIME INVESTIGATION
+https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/manifest.mpd
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="🇮🇩 INDONESIA 🇮🇩",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+
+
+
+
+
+
+#
+
+
+
+#
+
+
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_81.png",GTV HD 2 (R+)
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+
+
+
+
+
+
+
+
+#
+
+
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-logo="https://iili.io/JMp3joP.png" group-title="🇮🇩 INDONESIA 🇮🇩",GTV DIGITAL
+http://103.180.118.5:9981/stream/channelid/603010024
+
+
+
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="🇮🇩 INDONESIA 🇮🇩",GTV HD
+https://tvking6282.cloud/$k0detv9626/Lokal/gtv-hd.m3u8
+
+
+
+
+#
+
+
+
+
+#EXTINF:-1 group-title="🇮🇩 
+
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://images.indihometv.com/logo_kompastv_small.png?v=2.0.0.13" group-title="🇮🇩 INDONESIA 🇮🇩",Test test test
+#EXTVLCOPT:http-origin=https://www.youtube.com
+#EXTVLCOPT:http-referrer=https://www.youtube.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://anym3u8player.com/youtube.php/id/68504eb2beb09.m3u8
+
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://images.indihometv.com/logo_kompastv_small.png?v=2.0.0.13" group-title="🇮🇩 INDONESIA 🇮🇩",KompasTV Indi
+https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+
+
+#EXTINF:-1 tvg-country="ID" tvg-logo="https://images.indihometv.com/logo_kompastv_small.png?v=2.0.0.13" group-title="🇮🇩 INDONESIA 🇮🇩",KompasTV Digital
+http://103.180.118.5:9981/stream/channelid/716321720
+
+
+#EXTINF:-1 tvg-id="Kompas TV" tvg-logo="https://iili.io/JV3x6cG.png" group-title="🇮🇩 INDONESIA 🇮🇩",Kompas TV HD
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=Kompass
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-id="" tvg-logo="",KOMPAS TV HD INTECH
+#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch102.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd29wXb2-vddaGfok9d7cxHHcvHuMWdCD5TiNQKFiheJaQHJFeQe60qxRfHsv8T08JpJlzmS4BuPZMlCcUfx5poQEDHQalbzMcsxCUqmv3QvmkJXAMEKuk-O4RH_UrY89cH-TZRTOWTqlGXMD5lLbESsMP6HGrdJ750fZSSk7EHj4LoMCazkRtOBx8R9HE/s700/IMTV.png",IMTV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩"  tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13",INSERT
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://streaming.indihometv.com/joss/130/insert/manifest.mpd
+
+
+
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩"  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", INDOSIAR INDI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+
+
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR DIGITAL HD
+https://tvking6282.cloud/$k0detv9626/indosliga.m3u8
+
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR DIGITAL HD 2
+http://103.180.118.5:9981/stream/channelid/290871490
+
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png", INDOSIAR DIGITAL HD 3
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=Indosiar
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#http://ckviptv.newdns.world:8080/eRAm2Ti7ll/ju7rVMFsbu/62227
+
+
+
+
+#EXTINF:-1 tvg-id="I-Konser" tvg-logo="https://iili.io/JmnyaKx.png" group-title="🇮🇩 INDONESIA 🇮🇩",i-Konser
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn09jtedge.indihometv.com/joss/130/ikonser720/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="IDX HD - [Channel 436].id" tvg-logo="https://iili.io/JV3xvtI.png" group-title="🇮🇩 INDONESIA 🇮🇩",IDX Channel (FIRST)
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f12a0fe110248a6811faf8a0ddf19c6:af565f760064594c755515cb6b4b6f1a
+https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd
+
+
+
+
+
+#
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="🇮🇩 INDONESIA 🇮🇩",Inews V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://tvking6282.cloud/iNewsTV-HDD.mpd
+
+
+
+
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="https://iili.io/JV3x4Fs.png" group-title="🇮🇩 INDONESIA 🇮🇩",iNews
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=Inewstv
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews DIGITAL
+http://103.99.136.34:9981/stream/channelid/1846444973?ticket=A6FCF199CD2524256FA973ABFB56D524D323A2D5&profile=pass
+
+
+
+#EXTINF:-1 tvg-country="ID" group-title="🇮🇩 INDONESIA 🇮🇩" tvg-id="inews.id" tvg-logo="https://iili.io/d0Usobe.png",INEWS HD
+http://103.172.71.153:9981/stream/channelid/1431393783?profile=pass
+
+
+
+#EXTINF:-1 tvg-country="ID" group-title="🇮🇩 INDONESIA 🇮🇩" tvg-id="inews.id" tvg-logo="https://iili.io/d0Usobe.png",INEWS HD
+
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews HD 1 (R+)
+https://1s1.rctiplus.id/inews2023.m3u8
+
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png",iNews HD 2 (R+)
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#INDONESIA 🇮🇩" tvg-id="GPRTV.id" tvg-logo="https://iptv.urfan.web.id/logo/gprtv.png",GPR TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://stream.convergen.co/gprtv/smil:myLive.smil/chunklist_w2105686899_b744100_sleng.m3u8
+
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-logo="" tvg-id="13320" ,GGSTV
+https://etslive-v3-vidio-com-tokenized.akamaized.net/hls-p/ingest_18105_240p/hdntl=exp=1734983445~acl=%2flive%2f18105%2fmaster.m3u8!%2fhls-p%2fingest_18105*%2f*!%2fhls-b%2fingest_18105*%2f*~id=40216238~data=hdntl~hmac=627e46a7c14da824f62e432fbe9bbe4e1f00fb5fe2edd536a5826811ce605d5a/index.m3u8|user-agent=chrome-extension://eakdijdofmnclopcffkkgmndadhbjgka/player.html
+
+
+
+#
+
+
+
+
+#
+
+
+
+#EXTINF:-1 tvg-country"ID" tvg-logo="https://iili.io/JMp3eKg.png" group-title="🇮🇩 INDONESIA 🇮🇩",Magna TV HD
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" group-title="🇮🇩 INDONESIA 🇮🇩", Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+
+
+#
+
+
+
+
+#
+
+
+
+#
+
+
+
+#
+
+
+
+#EXTINF:-1 tvg-id="MGSTV.id" tvg-logo="" group-title="🇮🇩 INDONESIA 🇮🇩",Music Informasi Channel
+https://mic.siar.us/mic/live/mic_720p.m3u8
+
+
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png" group-title="🇮🇩 INDONESIA 🇮🇩",MNCTV DIGITAL
+http://103.99.136.34:9981/stream/channelid/1115378633?ticket=441D7C313FD416F364B9B101EF6BB27D7C7161D1&profile=pass
+
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNCTV HD 1 (R+)
+https://1s1.rctiplus.id/mnctv2023.m3u8
+
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png",MNCTV HD 2 (R+)
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png" group-title="🇮🇩 INDONESIA 🇮🇩",MNCTV HD V+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://tvking6282.cloud/MNCTV-HD.mpd
+
+
+
+
+#EXTINF:-1 tvg-country="ID" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="🇮🇩 INDONESIA 🇮🇩",MNCTV HD 2
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=Mnctv
+
+
+#EXTINF:-1 tvg-country="ID" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="🇮🇩 INDONESIA 🇮🇩",MNCTV HD 3
+#https://tvking6282.cloud/$k0detv9626/Lokal/MNC-TV.m3u8
+
+
+
+#EXTINF:-1 tvg-country="ID" group-title="🇮🇩 INDONESIA 🇮🇩" tvg-id="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png", MNCTV HD DIGITAL
+#http://xtv.ooo:8080/6729400/5718209/350996
+
+
+
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="Musik Indonesia" tvg-logo="https://iili.io/Jmny7Pj.png" group-title="🇮🇩 INDONESIA 🇮🇩",Musik Indonesia Indihome
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+
+
+
+#EXTINF:-1 tvg-id="Musik Indonesia" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.transvision.co.id/img/channel/musik_indo.png" group-title="🇮🇩 INDONESIA 🇮🇩",Musik Indonesia
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/667/667-LOGO-m.png" group-title="🇮🇩 INDONESIA 🇮🇩 ",Music TV
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=MusicTV
+#https://dusk.biz.id/visas/index.mpd?id=142
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/664/664-LOGO-m.png" group-title="🇮🇩 INDONESIA 🇮🇩",Muslim TV
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=MuslimTV
+#https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-logo="https://github.com/Qingtvnew/test/raw/main/metrotv-1%20(2).png", MetroTV DIGITAL
+#EXTVLCOPT:http-user-agent=ExoPlayer
+http://103.180.118.5:9981/stream/channelid/1640891347?profile=pass
+
+
+
+#EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://iili.io/JV3xZtS.png" group-title="🇮🇩 INDONESIA 🇮🇩",MetroTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
+
+
+
+#EXTINF:-1 group-title="🇮🇩 INDONESIA 🇮🇩" tvg-id="" tvg-logo="",METRO TV HD INTECH
+#EXTVLCOPT:http-user-agent=YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#https://flv.intechmedia.net/live/ch101.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Metro TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="🇮🇩 INDONESIA 🇮🇩",Metro TV
+#EXTVLCOPT:http-user-agent=ExoPlayer
+https://hakim45.serv00.net/smarttv.php?id=metrotv_eko
+
+#EXTINF:-1 tvg-id="" group-title="🇮🇩 INDONESIA 🇮🇩" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/4/41/New_MetroTV_Logo_and_Slogan_2010.png",Metro TV DIGITAL
+http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1  group-title="🇮🇩 INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg",Mentari TV HD Indi
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+
+#EXTINF:-1  group-title="🇮🇩 INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg",Mentari TV Digital
+#https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/mentariTV.m3u8
+
+
+#EXTINF:-1  group-title="🇮🇩 INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg",Mentari TV HD
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/mentari.m3u8
+
+
+
+
+#EXTINF:-1  group-title="🇮🇩 INDONESIA 🇮🇩" tvg-id="" tvg-logo="https://i.ibb.co/HH0TDQW/Shareext-Sports.jpg",Mentari TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#https://tvking6282.short.gy/mentaritv.mpd
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/kucing77899/logo/main/Moji-Chl-19.jpg" group-title="🇮🇩 INDONESIA 🇮🇩",MOJI DIGITAL
+http://iptvtree.net:8080/live/F25093/29838750/298550.ts
+#https://tvking6282.cloud/$k0detv9626/Sports/MojiLiga.m3u8
+#http://103.180.118.5:9981/stream/channelid/2143528816?profile=pass
+
+
+
+#EXTINF:0 tvg-country="ID" tvg-id="moji.id" tvg-logo="https://moji.id/site/uploads/logo/62f9387ce00a2-224-x-71.png group-title="🇮🇩 INDONESIA 🇮🇩",MOJI HD
+http://103.159.195.61:9981/stream/channelid/1696608012?profile=pass
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/mojiTV3.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="🇮🇩 INDONESIA 🇮🇩",MOJI HD 3
+http://155.117.253.254:8080/Home329/Sohailhome/302279?token=TxNaVBVQEQgQUgBTVwdRXVcKXgZeVwcDVQAEBFIEAgMAVwAEVltWBQcTGRNCEUUBVF85WgJBD1JUAgYGXRsQREdUQGoPXBEIEAQGAQNUFUgXRg9eA0EPUFMEDQZTBwECDB0QRQ9cEQgQAAMAB1IVSBdXHkcDEVsACG9QVBJeUVQWC1xAClQfEF1falVUCFYKURBcEVdBGUMNQ0QTXllHXVgdEFcPTEFTRlQXCxNQAFQMEEoRBQxADxBCTRNeFXt1Fh0QUB5MVlxBWFpfE18VEEYQShEPEGoTAUNAQwFWX1RGEwgXVhofEF9QTW5SClkKUFESWgkNRkNeEgUTSBVfXlpYRloUZ0NbVhMPEwBRAlQMEBs=
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/Moji.png" group-title="🇮🇩 INDONESIA 🇮🇩",MOJI HD Backup
+https://wahyu1ptv.
