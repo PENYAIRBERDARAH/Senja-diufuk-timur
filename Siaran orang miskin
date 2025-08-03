@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>GASRUKTV</title>
+</head>
+<body>
+    <div style="display:none;"></div>
+</body>
+</html>
+
+#EXTM3U
+
+
+#EXTINF:0 tvg-id="PL" tvg-logo="https://mrfixitstips.co.uk/app/uploads/2025/07/Arsenal-v-AC-Milan.jpg" group-title="FRIENDLY MATCH", Arsenal VS AC Milan 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5332345367554fd39588283a2b949d02:8abcd0b3126923b068c26508e24c9f69
+#https://tglmp04.akamaized.net/out/v1/5793335474d74566a8a0adfa260f22a9/manifest.mpd
+
+#EXTINF:-1 group-title="AFF CUP U23" tvg-id="SCTV.id" tvg-logo="https://thumbor.prod.vidiocdn.com/2tRBwJSUVRLB5P2mov2SQa0iUT0=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/23600/indonesia-vs-malaysia-8b4f83.jpg",Indo Vs Thailand Vidio
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0cadd460065c412ec1422700b68fb7dc:b4760d7e983c89e471628a0741749db1
+https://newfamilytv.my.id/sakura/vid.mpd?id=18037
+
+#EXTINF:-1 group-title="AFF CUP U23" tvg-logo="https://thumbor.prod.vidiocdn.com/2tRBwJSUVRLB5P2mov2SQa0iUT0=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/23600/indonesia-vs-malaysia-8b4f83.jpg",Indo Vs Thailand Alt
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
+https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+
+#EXTINF:-1 group-title="AFF CUP U23" tvg-logo="https://thumbor.prod.vidiocdn.com/XIg3VbvNhaZcxtoCQlFqHc6i_v4=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/19159/philippines-vs-brunei-darussalam-1f8f31.jpg",Philines Vs Brunai Vidio
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0c9103136607423a68a3c5faf102efc:de12887b7a4f083171bcdb559c454376
+#https://geo-id-tl-ph-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19088/file/drm/dash/19088_stream.mpd?hdntl=exp=1753116626~acl=%2fstream%2f19088%2ffile%2f*~id=187027975~data=hdntl~hmac=e6da3597a697f108151d52c57e29316c40b2e330b8c307b555c8a28223d6353c
+
+#EXTINF:-1 group-title="AFF CUP U23" tvg-logo="https://thumbor.prod.vidiocdn.com/XIg3VbvNhaZcxtoCQlFqHc6i_v4=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/19159/philippines-vs-brunei-darussalam-1f8f31.jpg",Philines Vs Brunai Alt
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
+#https://tglmp02.akamaized.net/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
+
+
+#EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/PIvMNEo-Gk_TbcGVBbvB3wWd5MM=/168x168/filters:quality(70)/vidio-web-prod-category/uploads/category/icon/452/timnas-indonesia-435ace.png" group-title="TIMNAS INDONESIA
+
+#EXTINF:-1 group-title="TIMNAS INDONESIA" tvg-id="MOJI.id" tvg-logo="https://thumbor.prod.vidiocdn.com/j5NZu64LiOlLHOnkYjrJGnrVyCQ=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/30964/indonesia-vs-brunei-darussalam-d6c8cc.jpg", Indonesia vs Brunai
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://newfamilytv.my.id/sakura/drm.php?id=18037
+#https://newfamilytv.my.id/sakura/vid.mpd?id=18037
+
+#EXTINF:-1 group-title="TIMNAS INDONESIA" tvg-id="ss2.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png", Sportstars 2 FHD
+#EXTVLCOPT:http-referrer=https://m.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:-1 tvg-id="RCTI.ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_RCTI%2B.png" group-title="TIMNAS INDONESIA",RCTI+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 10; AX512 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
+#https://liveplus.rctiplus.id/RTMP-IN.m3u8
+
+#EXTINF:-1 group-title="TIMNAS INDONESIA" tvg-id="astroarena.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png", Astro Arena 2 (Vpn My/SG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; RMX3393 Build/UKQ1.230924.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/132.0.6834.163 Mobile Safari/537.36 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+
+====================================== Live Event Vidio ======================================
+
+#EXTM3U
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/bLJj47y5VCEjnwFIs-5ch_61wFs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4446641/95f47e.jpg", [live]-atp 500 mubadala citi dc open 2025 quarter final
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://newfamilytv.my.id/sakura/drm.php?id=17875
+https://gasruktv.my.id/sakura/vid.mpd?id=17875&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/LM3gZjt5hfzyN3CSSq_KkZXnfVo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4452158/6f2559.jpg", [up]-jafar hidayatullah felisha alberta nathaniel pasaribu ina vs jiang zhen bang wei ya xin chn mixed doubles semifinal victor china open 2025
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvid.gasruktv.workers.dev/?id=18249
+https://files.catbox.moe/e2u8oy.mp4?id=18249&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/nNSc31tq_yiSoqAshNJb464eGzQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447466/f54671.jpg", [up]-worldsbk free practice 3 worldsbk championship round 7 hungarian round
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvid.gasruktv.workers.dev/?id=17140
+https://files.catbox.moe/e2u8oy.mp4?id=17140&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/iklwmibxEslDlNVIzA6v9YHB1Qk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447467/18cb18.jpg", [up]-fia formula 3 championship belgium grand prix 2025 sprint race
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://newfamilytv.my.id/sakura/drm.php?id=17884
+https://files.catbox.moe/e2u8oy.mp4?id=17884&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/ZIell6CM_ICUhZ7ktNGOOvIXVaE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447473/60941a.jpg", [up]-worldsbk tissot superpole worldsbk championship round 7 hungarian round
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvid.gasruktv.workers.dev/?id=17140
+https://files.catbox.moe/e2u8oy.mp4?id=17140&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/Q1dIrmRCX8yBilzoKehy6bU4oCs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4449160/d67880.jpg", [up]-o2c bandung vs mabes tni moji volley cup
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://newfamilytv.my.id/sakura/drm.php?id=19176
+https://files.catbox.moe/e2u8oy.mp4?id=19176&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/OtLgWnx3mZ1s_h5-JMNZGj7P8sM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447468/e793d1.jpg", [up]-formula 1 moet chandon belgian grand prix 2025 sprint race
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://newfamilytv.my.id/sakura/drm.php?id=17884
+https://files.catbox.moe/e2u8oy.mp4?id=17884&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/AHRF65kOCj-PBcB3MA5coAwg4qE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447474/5a5173.jpg", [up]-worldwcr race 1 worldsbk championship round 7 hungarian round
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvid.gasruktv.workers.dev/?id=17140
+https://files.catbox.moe/e2u8oy.mp4?id=17140&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/8Mg3IuaWvcut9usRjE1LGee9uhM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4452163/e62971.jpg", [up]-liang wei keng wang chang chn vs fajar alfian muhammad shohibul fikri ina men s doubles semifinal victor china open 2025
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvid.gasruktv.workers.dev/?id=18249
+https://files.catbox.moe/e2u8oy.mp4?id=18249&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/Xa2hqNivPnpHxUpZhzb06jVQBRA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4449753/0b6ae4.jpg", [up]-launching team persija 2025 26
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://newfamilytv.my.id/sakura/drm.php?id=19192
+https://files.catbox.moe/e2u8oy.mp4?id=19192&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/CdPYZB9iFqu6owM5wBfNsIJzZ1o=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447482/bb38f4.jpg", [up]-worldsbk race 1 worldsbk championship round 7 hungarian round
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvid.gasruktv.workers.dev/?id=17140
+https://files.catbox.moe/e2u8oy.mp4?id=17140&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/bnKBJsaJd_wSYJRC2jp2cLzMFZE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447470/ec8bd4.jpg", [up]-fia formula 2 championship belgium grand prix 2025 sprint race
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://newfamilytv.my.id/sakura/drm.php?id=17884
+https://files.catbox.moe/e2u8oy.mp4?id=17884&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/9icVQdBR6zLid9qvyT3wcBjjnZs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447217/e6a822.jpg", [up]-wta 250 livesport prague open 2025 finals
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://newfamilytv.my.id/sakura/drm.php?id=6786
+https://files.catbox.moe/e2u8oy.mp4?id=6786&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/C3hC43ivcpWD84X56OumE42vXk0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4449158/3533ea.jpg", [up]-isps handa women s scottish open 2025 round 3
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvid.gasruktv.workers.dev/?id=18190
+https://files.catbox.moe/e2u8oy.mp4?id=18190&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/SjFGatdQmIehnBUEdR-_nKBBts0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4449161/be6f2f.jpg", [up]-timnas putri u21 vs timnas putri senior moji volley cup
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://newfamilytv.my.id/sakura/drm.php?id=19176
+https://files.catbox.moe/e2u8oy.mp4?id=19176&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/Efl8v3fmQMJJM0YKSzr-xrheHNs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4449558/4377da.jpg", [up]-persija vs arema fc persija matchday
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://newfamilytv.my.id/sakura/drm.php?id=19189
+https://files.catbox.moe/e2u8oy.mp4?id=19189&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/gWKqNcPu1v9l364wK5jaHnDQlqk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447484/b9209f.jpg", [up]-isps handa senior open round 3
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvid.gasruktv.workers.dev/?id=17139
+https://files.catbox.moe/e2u8oy.mp4?id=17139&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/I8_jDpghDQxgv_qaWqCqUObxBqg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4446642/01f5ee.jpg", [up]-atp 250 generali open 2025 final
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://newfamilytv.my.id/sakura/drm.php?id=17875
+https://files.catbox.moe/e2u8oy.mp4?id=17875&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/UJEG1oJ15xaaJ7nOgW48CrSP5T8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4449163/15974f.jpg", [up]-nice vs st pauli pre season friendly match
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://newfamilytv.my.id/sakura/drm.php?id=6317
+https://files.catbox.moe/e2u8oy.mp4?id=6317&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/uG2BYx8woYmexBiAEhdUjDB7rDQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447483/eac5bf.jpg", [up]-worldssp race 1 worldsbk championship round 7 hungarian round
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvid.gasruktv.workers.dev/?id=17140
+https://files.catbox.moe/e2u8oy.mp4?id=17140&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/dZByxubO59kuX74z9jQ7y2oAsic=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4451781/bb86ed.jpg", [up]-semifinal women italy vs poland volleyball nations league
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvid.gasruktv.workers.dev/?id=18851
+https://files.catbox.moe/e2u8oy.mp4?id=18851&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/I_iIXtChgQ90c2ecy1NA-wK0nUg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4447471/165131.jpg", [up]-formula 1 moet chandon belgian grand prix 2025 qualifying
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://newfamilytv.my.id/sakura/drm.php?id=17884
+https://files.catbox.moe/e2u8oy.mp4?id=17884&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/MZcGfFMSkKwBx8d4ugdHlNq6WxE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4449164/9292a8.jpg", [up]-kaiserslautern vs roma pre season friendly match
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://newfamilytv.my.id/sakura/drm.php?id=6317
+https://files.catbox.moe/e2u8oy.mp4?id=6317&type=dash
+
+#EXTINF:-1 group-title="LIVE EVENT VIDIO" tvg-logo="https://thumbor.prod.vidiocdn.com/cnzVKAuEXx8NxrK6QQekFaBsgac=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4446720/32aeb0.jpg", [up]-3m open round 3
+#EXTVLCOPT:http-referrer=https://m.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drmvid.g
